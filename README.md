@@ -1,0 +1,2 @@
+# M1_training_project-main
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7b4853c45e7b4894af0efaf1fe333f82)](https://app.codacy.com/gh/JITHESH006/M1_training_project-main?utm_source=github.com&utm_medium=referral&utm_content=JITHESH006/M1_training_project-main&utm_campaign=Badge_Grade_Settings)
